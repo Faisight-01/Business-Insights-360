@@ -1,6 +1,6 @@
 # Business-Insights-360
 
-## Live Dashboard: _[Business Insights 360](<iframe title="Business_insight_360" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOGRmZjYzYTUtNTc1Ny00ZTc0LTg1MGEtODcyZjMxY2JhMWI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=41819fc5f9f1748bf48e" frameborder="0" allowFullScreen="true"></iframe>)_
+## Live Dashboard: _[Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiOGRmZjYzYTUtNTc1Ny00ZTc0LTg1MGEtODcyZjMxY2JhMWI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=41819fc5f9f1748bf48e)_
 ## Home Page :
 
 
